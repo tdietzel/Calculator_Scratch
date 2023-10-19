@@ -40,4 +40,4 @@ window.addEventListener("load", () => {
     let form = document.querySelector("#calculator");
     form.addEventListener("submit" , calculate);
     console.log("test1");
-  });
+  }); f
